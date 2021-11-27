@@ -4,7 +4,7 @@
  {garden/garden         {:mvn/version "1.3.10"}
   girouette/girouette   {:git/url "https://github.com/green-coder/girouette"
                          :git/sha "275d7b62a75a77efe87e2f76adc8073ac7134a72"
-                         :git/root "lib/girouette"}
+                         :deps/root "lib/girouette"}
   meta-merge/meta-merge {:mvn/version "1.0.0"}}
 
  :aliases
